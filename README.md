@@ -14,7 +14,7 @@ ChiTalk adalah aplikasi penerjemah pintar berbasis Android yang memanfaatkan GPS
 ## Tampilan Antarmuka (UI)
 
 
-**<img width="622" height="665" alt="image" src="https://github.com/user-attachments/assets/42c6cd06-5e12-46af-8e03-b674c3f770b7" />**
+**<img width="515" height="353" alt="image" src="https://github.com/user-attachments/assets/97b21edc-df6d-4048-8d93-c348ae9700ae" />**
 
 ---
 
