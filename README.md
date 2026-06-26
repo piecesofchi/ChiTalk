@@ -38,4 +38,5 @@ ChiTalk adalah aplikasi penerjemah pintar berbasis Android yang memanfaatkan GPS
 
 ## Link ClickUp dan Notion
 `https://sharing.clickup.com/90181768475/b/h/4-901810889108-2/e02b3f210324be0`
+
 `https://www.notion.so/Chitalk-35a93f6f613280269621d400f38a9c01?source=copy_link`
